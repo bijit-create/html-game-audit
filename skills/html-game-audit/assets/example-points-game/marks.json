@@ -1,0 +1,369 @@
+{
+ "title": "Points Game (Basic Geometrical Ideas) - https://points-game-draft.netlify.app/",
+ "note": "Reviewed 28 Sep 2026. LP and skill statement not available.",
+ "items": {
+  "1": {
+   "status": "Cannot mark",
+   "observation": "No LP or skill statement available. Game covers point, line segment, line and ray (NCERT Class 6, Basic Geometrical Ideas).",
+   "correction": "Attach the skill statement the game is built for.",
+   "screenshots": [],
+   "blocks": false
+  },
+  "2": {
+   "status": "Does not meet",
+   "observation": "Scene 16 'Connect A and B with the shortest path': a drag by a long detour is accepted because the game always draws a straight line. Scenes 26-27: the pair can be found by trial, as the answer glows after two misses.",
+   "correction": "Check the drag path, or change the task so the child has to judge shortest path.",
+   "screenshots": [
+    "s16_11_curved_drag_to_B.png"
+   ],
+   "blocks": true
+  },
+  "3": {
+   "status": "Meets",
+   "observation": "Definitions of point, segment, line and ray are correct. Note: scene 11 picture of lines through a point is drawn as arrows from one centre and reads like rays.",
+   "correction": "Draw full lines with arrowheads at both ends through the point.",
+   "screenshots": [
+    "story_11_20.png"
+   ],
+   "blocks": false
+  },
+  "4": {
+   "status": "Cannot mark",
+   "observation": "Grade not stated. Wording ('precise location', 'extended endlessly') matches the Class 6 textbook.",
+   "correction": "State the target grade in the LP.",
+   "screenshots": [],
+   "blocks": false
+  },
+  "5": {
+   "status": "Cannot mark",
+   "observation": "Prerequisites are not stated anywhere.",
+   "correction": "List prerequisites in the LP.",
+   "screenshots": [],
+   "blocks": false
+  },
+  "6": {
+   "status": "Meets",
+   "observation": "Islands, houses and stars as points need no outside knowledge.",
+   "correction": "",
+   "screenshots": [],
+   "blocks": false
+  },
+  "7": {
+   "status": "Does not meet",
+   "observation": "No task tests the usual confusions: segment vs line vs ray, or a curved path counting as a segment.",
+   "correction": "Add items where the child must tell segment, line and ray apart.",
+   "screenshots": [],
+   "blocks": false
+  },
+  "8": {
+   "status": "Does not meet",
+   "observation": "Line and ray are each shown for about 5 s (scenes 15a, 15b) and never practised or checked. All five practices are about joining two points.",
+   "correction": "Add practice and a check for line and ray, or remove them from this game.",
+   "screenshots": [
+    "story_15a_32.png",
+    "story_15b_34.png"
+   ],
+   "blocks": true
+  },
+  "9": {
+   "status": "Meets",
+   "observation": "Starts from point, then joining points, then segment.",
+   "correction": "",
+   "screenshots": [],
+   "blocks": false
+  },
+  "10": {
+   "status": "Meets",
+   "observation": "Order: point > lines through a point > segment > line > ray > practice on segments.",
+   "correction": "",
+   "screenshots": [],
+   "blocks": false
+  },
+  "11": {
+   "status": "Meets",
+   "observation": "Two dots > three houses > eight islands with distractors > four letter points > six points, eight joins.",
+   "correction": "",
+   "screenshots": [],
+   "blocks": false
+  },
+  "12": {
+   "status": "Meets",
+   "observation": "Segment is demonstrated (scenes 12-15) before the first practice in scene 16.",
+   "correction": "",
+   "screenshots": [],
+   "blocks": false
+  },
+  "13": {
+   "status": "Meets",
+   "observation": "Five practices using dots, pictures and letters; each is used before it is checked.",
+   "correction": "",
+   "screenshots": [],
+   "blocks": false
+  },
+  "14": {
+   "status": "Meets",
+   "observation": "After the guide line, the next rounds are done without help (scenes 26-27).",
+   "correction": "",
+   "screenshots": [],
+   "blocks": false
+  },
+  "15": {
+   "status": "Does not meet",
+   "observation": "Scene 16: 195 s idle at 'Draw a point', nothing happens. Scene 19 shows a pen after about 4 s. Scenes 21, 26, 27 help only after mistakes, not when idle. No glow > ghost hand > Swiftee order anywhere.",
+   "correction": "Add idle help in the LP order to every practice.",
+   "screenshots": [
+    "r1_005.png",
+    "r1_195.png"
+   ],
+   "blocks": true
+  },
+  "16": {
+   "status": "Meets",
+   "observation": "Retry is always allowed. The guide line appears only after 2-3 misses. Miss count cannot be checked without the LP.",
+   "correction": "Confirm the miss count against the LP.",
+   "screenshots": [
+    "s19_07_wrong_drag2.png"
+   ],
+   "blocks": false
+  },
+  "17": {
+   "status": "Does not meet",
+   "observation": "End screen: 'You mapped the whole Cloud Colony!' Names the story task, not the skill.",
+   "correction": "Add a line naming what was learnt: points, line segments, lines, rays.",
+   "screenshots": [
+    "s27_95_after.png"
+   ],
+   "blocks": false
+  },
+  "18": {
+   "status": "Cannot mark",
+   "observation": "Support points are defined in the LP, which is not available.",
+   "correction": "",
+   "screenshots": [],
+   "blocks": false
+  },
+  "19": {
+   "status": "Cannot mark",
+   "observation": "No Swiftee character appears in the game; Maya is on the banner. Whether Swiftee is required needs the LP.",
+   "correction": "Confirm with the LP.",
+   "screenshots": [],
+   "blocks": false
+  },
+  "20": {
+   "status": "Does not meet",
+   "observation": "Scenes 19, 21, 26, 27 step up: prompt > named pair > glow > guide line. Scene 16 has only the eraser pulse.",
+   "correction": "Add the same progression to scene 16.",
+   "screenshots": [
+    "s26_01b_wrong1.png",
+    "s26_01c_wrong2.png",
+    "s26_01d_wrong3.png"
+   ],
+   "blocks": false
+  },
+  "21": {
+   "status": "Does not meet",
+   "observation": "Scene 12 says 'Now, join them' but there is nothing to do and it moves on. Scene 16 banner says 'Connect A and B with the shortest path' while the voice says 'Press point A and drag to point B'. Scene 20 START has no instruction.",
+   "correction": "Remove 'join them' from scene 12 or make it a task; make banner and voice say the same thing.",
+   "screenshots": [
+    "story_12_23.png",
+    "s16_06_segment_prompt.png",
+    "story_20_01.png"
+   ],
+   "blocks": false
+  },
+  "22": {
+   "status": "Meets",
+   "observation": "The joining shown in scenes 12-15 is the action used in every practice.",
+   "correction": "",
+   "screenshots": [],
+   "blocks": false
+  },
+  "23": {
+   "status": "Meets",
+   "observation": "No colour, size or position gives the correct pair away before a mistake.",
+   "correction": "",
+   "screenshots": [],
+   "blocks": false
+  },
+  "24": {
+   "status": "Does not meet",
+   "observation": "Scene 19: a correct tap on a house plays the wrong-answer sound and says 'Oops! Try again.' Reproduced twice. The tap also reaches the board behind the house, which treats it as a miss.",
+   "correction": "Stop the house tap from reaching the board miss handler.",
+   "screenshots": [
+    "s19_03_first_house.png"
+   ],
+   "blocks": true
+  },
+  "25": {
+   "status": "Meets",
+   "observation": "Wrong answers say what to do next ('Tap the eraser...', 'Look for points A and C. Join them.').",
+   "correction": "",
+   "screenshots": [
+    "s16_08_after_wrong_wait.png"
+   ],
+   "blocks": false
+  },
+  "26": {
+   "status": "Meets",
+   "observation": "Plain short sentences for Class 6.",
+   "correction": "Recheck if the target grade is lower.",
+   "screenshots": [],
+   "blocks": false
+  },
+  "27": {
+   "status": "Does not meet",
+   "observation": "Same object called point, house and island ('Tap on any two points' over houses; 'unsafe house' for an island). Action called draw, join, connect, tap, press and drag.",
+   "correction": "Use one word for the object and one for the action per screen.",
+   "screenshots": [
+    "s19_01_start.png",
+    "s21_05_unsafe.png"
+   ],
+   "blocks": false
+  },
+  "28": {
+   "status": "Does not meet",
+   "observation": "Scene 25 speech bubble is not read aloud. All practices and the line/ray frames use device text-to-speech, which may be missing or sound different on a low-end Android. Ray frame: voice says 'For example: Sun's rays.' while the banner shows the definition.",
+   "correction": "Record all practice lines, the bubble text and the line/ray narration.",
+   "screenshots": [
+    "story_25_04.png"
+   ],
+   "blocks": false
+  },
+  "29": {
+   "status": "Does not meet",
+   "observation": "Scene 12 A and B look exactly like the tappable points in scene 16 but do nothing.",
+   "correction": "Make demonstration points look different, or make them interactive.",
+   "screenshots": [
+    "story_12_23.png"
+   ],
+   "blocks": false
+  },
+  "30": {
+   "status": "Does not meet (phone)",
+   "observation": "At 812x375 (phone landscape), scene 27 points C, D, F are about 25 px apart with 10 px dots. Fine at 1280x800.",
+   "correction": "Enlarge and space the dots, or fix the target device as tablet.",
+   "screenshots": [
+    "size_812x375_frame27.png"
+   ],
+   "blocks": false
+  },
+  "31": {
+   "status": "Does not meet",
+   "observation": "Taps while narration or an intro plays get no response (scenes 16 and 21).",
+   "correction": "Give a small response, such as a shake or repeating the instruction.",
+   "screenshots": [
+    "s21_02_tap_during_intro.png"
+   ],
+   "blocks": false
+  },
+  "32": {
+   "status": "Meets",
+   "observation": "START and PLAY AGAIN are clear buttons; everything else advances by itself.",
+   "correction": "",
+   "screenshots": [
+    "story_20_01.png",
+    "s27_95_after.png"
+   ],
+   "blocks": false
+  },
+  "33": {
+   "status": "Does not meet",
+   "observation": "No replay, pause or mute control anywhere.",
+   "correction": "Add a replay button for the current instruction.",
+   "screenshots": [],
+   "blocks": false
+  },
+  "34": {
+   "status": "Meets",
+   "observation": "Right and wrong are shown by sound, banner text and the line pulling back, not colour alone.",
+   "correction": "",
+   "screenshots": [],
+   "blocks": false
+  },
+  "35": {
+   "status": "Does not meet (4:3)",
+   "observation": "At 1024x768 the scene 16 board is cut off at the bottom. Fits at 1280x800.",
+   "correction": "Fit the board to 4:3 screens.",
+   "screenshots": [
+    "r1_000_after_load.png",
+    "size_1280x800_frame16.png"
+   ],
+   "blocks": false
+  }
+ },
+ "not_covered": [
+  {
+   "issue": "No result is recorded or sent anywhere; wrong attempts are counted only to trigger hints",
+   "evidence": "No network calls other than loading files; no postMessage to a parent page",
+   "fix": "Report completion and attempts to the platform",
+   "screenshots": []
+  },
+  {
+   "issue": "Voice changes from recorded clips to device text-to-speech mid-game",
+   "evidence": "Story frames use clips; line, ray and all practices use the browser voice",
+   "fix": "Record every spoken line",
+   "screenshots": []
+  },
+  {
+   "issue": "Missing file on every load",
+   "evidence": "assets/frame-21-background.png returns 404",
+   "fix": "Add the file or remove the reference",
+   "screenshots": []
+  },
+  {
+   "issue": "Loading is heavy: about 4 minutes on the test connection; loader gives up after 45 s per file",
+   "evidence": "Loading screen",
+   "fix": "Compress assets; test on a low-end device on mobile data",
+   "screenshots": [
+    "00_first_load.png"
+   ]
+  },
+  {
+   "issue": "Any scene can be opened by adding #frame-N to the address",
+   "evidence": "Found in the code",
+   "fix": "Remove for release if the platform exposes the address",
+   "screenshots": []
+  },
+  {
+   "issue": "Last praise line on the island map is blank",
+   "evidence": "Scene 21 after the fifth join",
+   "fix": "Show 'All five places connected!'",
+   "screenshots": [
+    "s21_19_join.png"
+   ]
+  },
+  {
+   "issue": "Total length about 10-12 minutes",
+   "evidence": "Story frames 1-15 alone take about 115 s",
+   "fix": "Check against the session length in the LP",
+   "screenshots": []
+  }
+ ],
+ "screenshot_notes": {
+  "00_first_load.png": "Loading screen",
+  "r1_000_after_load.png": "Scene 16 at 1024x768, board cut off",
+  "r1_005.png": "Scene 16 idle at 5 s",
+  "r1_195.png": "Scene 16 idle at 195 s, unchanged",
+  "s16_06_segment_prompt.png": "Scene 16 banner 'shortest path' prompt",
+  "s16_08_after_wrong_wait.png": "Scene 16 wrong line, eraser prompt",
+  "s16_11_curved_drag_to_B.png": "Scene 16 detour drag accepted",
+  "s19_01_start.png": "Scene 19 'Tap on any two points' over houses",
+  "s19_03_first_house.png": "Scene 19 correct tap shows 'Oops! Try again.'",
+  "s19_07_wrong_drag2.png": "Scene 19 guide line after two misses",
+  "s21_02_tap_during_intro.png": "Scene 21 tap during intro, no response",
+  "s21_05_unsafe.png": "Scene 21 'unsafe house' message on an island",
+  "s21_19_join.png": "Scene 21 last join, blank banner",
+  "s26_01b_wrong1.png": "Scene 26 first miss",
+  "s26_01c_wrong2.png": "Scene 26 second miss, named pair",
+  "s26_01d_wrong3.png": "Scene 26 glow and guide line",
+  "s27_95_after.png": "End screen",
+  "size_1280x800_frame16.png": "Scene 16 at 1280x800, fits",
+  "size_812x375_frame27.png": "Scene 27 on phone, points close together",
+  "story_11_20.png": "Scene 11 lines through a point",
+  "story_12_23.png": "Scene 12 'Now, join them' with no task",
+  "story_15a_32.png": "Scene 15a line",
+  "story_15b_34.png": "Scene 15b ray",
+  "story_20_01.png": "Scene 20 START, no instruction",
+  "story_25_04.png": "Scene 25 speech bubble, not read aloud"
+ }
+}

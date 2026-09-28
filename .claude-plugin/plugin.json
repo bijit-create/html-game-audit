@@ -1,0 +1,10 @@
+{
+  "name": "html-game-audit",
+  "version": "1.0.0",
+  "description": "Plays an HTML learning game in a scripted browser and marks the ConveGenius HTML/FLN game quality checklist from what it sees: step-by-step audit log, screenshot for every step, filled checklist workbook with blocking flags, optional Google Drive upload as a Google Sheet.",
+  "author": {
+    "name": "ConveGenius",
+    "email": "bijit@convegenius.ai"
+  },
+  "keywords": ["qa", "audit", "html-game", "checklist", "fln", "lbd"]
+}

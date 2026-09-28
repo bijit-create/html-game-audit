@@ -1,0 +1,37 @@
+{
+  "title": "<Game name> (<topic>) - <URL>",
+  "note": "Reviewed <date>. LP and skill statement <available / not available>.",
+  "items": {
+    "1": {
+      "status": "Cannot mark",
+      "observation": "No LP or skill statement available. Game covers <concepts>.",
+      "correction": "Attach the skill statement the game is built for.",
+      "screenshots": [],
+      "blocks": false
+    },
+    "24": {
+      "status": "Does not meet",
+      "observation": "Scene 19: a correct tap on a house plays the wrong-answer sound and says \"Oops! Try again.\" Reproduced twice.",
+      "correction": "Stop the house tap from reaching the board's miss handler.",
+      "screenshots": ["s19_03_first_house.png"],
+      "blocks": true
+    },
+    "34": {
+      "status": "Meets",
+      "observation": "Right and wrong are shown by sound, banner text and the line pulling back, not colour alone.",
+      "correction": "",
+      "screenshots": []
+    }
+  },
+  "not_covered": [
+    {
+      "issue": "No result is recorded or sent anywhere",
+      "evidence": "No network calls other than loading files",
+      "fix": "Report completion and attempts to the platform",
+      "screenshots": []
+    }
+  ],
+  "screenshot_notes": {
+    "s19_03_first_house.png": "Scene 19 correct tap shows 'Oops! Try again.'"
+  }
+}

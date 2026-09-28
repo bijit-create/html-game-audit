@@ -1,0 +1,15 @@
+{
+  "name": "html-game-audit",
+  "description": "Plays HTML learning games and marks the ConveGenius quality checklist, with screenshots.",
+  "owner": {
+    "name": "ConveGenius",
+    "email": "bijit@convegenius.ai"
+  },
+  "plugins": [
+    {
+      "name": "html-game-audit",
+      "source": "./",
+      "description": "Play an HTML learning game and mark the quality checklist, with screenshots and a filled checklist sheet."
+    }
+  ]
+}
